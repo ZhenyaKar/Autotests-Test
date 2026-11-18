@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"b31fde8df73cc34c820777cd2f5accb0","name":"test_git1","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"24a49d036fba17cb838461414091caf6","name":"test_git2","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}}]}
